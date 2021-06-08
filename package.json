@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node /FRD/app.js"
+    "start": "node /frd/app.js"
   },
   "author": "",
   "license": "ISC",
